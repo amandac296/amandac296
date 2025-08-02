@@ -19,7 +19,9 @@ Languages: Python
 Working on it!
 
 📫 How to Reach Me:
+
 Email: amanda.chen.1@stonybrook.edu
+
 LinkedIn: www.linkedin.com/in/amanda-chen-sbu
  
 
