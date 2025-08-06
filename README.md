@@ -8,9 +8,13 @@
 I’m passionate about leveraging technology to drive businesses. I have a strong interest in software and web development and am currently exploring the rapidly evolving fields of AI and Machine Learning. My goal is to create technical solutions that not only solve problems but also create value in the business world.
 
 🛠 Tech Stack:
+
 Languages: Java, Python
+
 Web Dev: HTML, CSS, JavaScript (basic)
+
 Tools: VS Code, IntelliJ, Jupyter Notebooks, Eclipse, Git, GitHub
+
 Databases: SQL (basic)
  
 🎯 Currently Learning:
