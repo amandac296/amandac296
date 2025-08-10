@@ -1,4 +1,4 @@
-👋 Hi, I'm Amanda!
+👋 Hi, I'm Amanda! 
 
 🎓 Sophomore at Stony Brook University, studying Computer Science and Business Management
 
