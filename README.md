@@ -16,7 +16,7 @@ Web Dev: HTML, CSS, JavaScript (basic)
 Tools: VS Code, IntelliJ, Jupyter Notebooks, Eclipse, Git, GitHub
  
 Databases: SQL (basic)
- 
+  
 🎯 Currently Learning:
 Data Science: Pandas, NumPy, scikit-learn
 Languages: Python
